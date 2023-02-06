@@ -1,0 +1,110 @@
+2023.02.06 22:04:57 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /workspaces/scala-lab-AdamrBeckwith/.metals/lsp.trace.json or /root/.cache/metals/lsp.trace.json
+2023.02.06 22:04:59 INFO  logging to file /workspaces/scala-lab-AdamrBeckwith/.metals/metals.log
+2023.02.06 22:04:59 INFO  Started: Metals version 0.11.10 in workspace '/workspaces/scala-lab-AdamrBeckwith' for client Visual Studio Code 1.75.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/sbtuser/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.5/scribe-slf4j_2.13-3.10.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.02.06 22:05:05 INFO  time: initialize in 6.06s
+2023.02.06 22:05:12 WARN  Build server is not auto-connectable.
+2023.02.06 22:05:36 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:05:42 INFO  no build target found for /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.02.06 22:05:43 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+Feb 06, 2023 10:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Feb 06, 2023 10:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2023.02.06 22:05:43 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/build.sbt
+Feb 06, 2023 10:05:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2023.02.06 22:05:45 INFO  time: code lens generation in 1.74s
+2023.02.06 22:05:45 INFO  time: code lens generation in 2.01s
+2023.02.06 22:05:45 INFO  time: code lens generation in 7.64s
+2023.02.06 22:06:17 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:08:33 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:08:35 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:09:06 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/test/scala/lab/00_FactorialSpec.scala
+2023.02.06 22:09:09 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:21 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:31 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:41 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:44 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:46 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:48 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:09:51 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:10:38 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:10:54 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/test/scala/lab/00_FactorialSpec.scala
+2023.02.06 22:11:18 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:12:34 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:12:35 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/00_Factorial.scala
+2023.02.06 22:12:41 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:12:53 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:12:57 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/test/scala/lab/01_FibonacciTest.scala
+Feb 06, 2023 10:13:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 227
+2023.02.06 22:13:18 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:22 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:24 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:30 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:33 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:35 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:40 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:43 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:50 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:51 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:53 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:13:56 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+Feb 06, 2023 10:13:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 365
+2023.02.06 22:14:02 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/01_Fibonacci.scala
+2023.02.06 22:14:21 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:14:29 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:14:47 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:14:50 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:02 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:06 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:09 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:11 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:14 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:20 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/test/scala/lab/02_ExponentTest.scala
+2023.02.06 22:15:33 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:37 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:41 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:44 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:46 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/02_Exponent.scala
+2023.02.06 22:15:53 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/04_Rainfall.scala
+2023.02.06 22:15:54 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:18:09 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:18:31 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:18:43 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:18:49 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:18:52 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:18:57 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:00 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:07 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:12 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:14 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:18 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:23 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:26 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:30 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:44 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:47 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:50 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:53 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:54 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:56 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:19:57 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:00 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:20:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 949
+2023.02.06 22:20:09 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:12 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+2023.02.06 22:20:15 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:20:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1013
+2023.02.06 22:20:21 WARN  no build target for: /workspaces/scala-lab-AdamrBeckwith/src/main/scala/lab/03_Palindrome.scala
+Feb 06, 2023 10:20:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

@@ -4,4 +4,8 @@
   *  Hint: the Scala collections API is your friend
   *  https://docs.scala-lang.org/overviews/scala-book/collections-methods.html
   */
-def isPalindrome(s: String): Boolean = throw new NotImplementedError
+def isPalindrome(s: String): Boolean = 
+  if (String.size) == 0 then return true
+  else 
+    if String.head() == String.tail() then true 
+      else false 
